@@ -32,6 +32,7 @@
     "chai": "^4.2.0",
     "cross-env": "^5.2.0",
     "eslint": "^5.9.0",
+    "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
     "path": "^0.12.7",
     "uglifyjs-webpack-plugin": "^2.0.1",
