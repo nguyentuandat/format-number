@@ -7,13 +7,13 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @nguyentuandat.vn/format-number`
+  `npm install @oorts/format-number`
   or
-  `yarn add @nguyentuandat.vn/format-number`
+  `yarn add @oorts/format-number`
 
 ## Usage
 
-    import numFormatter from '@nguyentuandat.vn/format-number';
+    import numFormatter from '@oorts/format-number';
 
     var formattedNum = numFormatter(35666);
   

@@ -1,5 +1,5 @@
 {
-  "name": "format-number",
+  "name": "@oorts/format-number",
   "version": "0.1.0",
   "description": "Oorts format number",
   "main": "lib/index",
@@ -8,12 +8,12 @@
     "test": "mocha --reporter spec",
     "build": "cross-env NODE_ENV=production webpack --config webpack.config.js --color -p --progress --display-optimization-bailout",
     "prod": "webpack --mode production",
-    "prepublish": "node_modules/@babel/cli/bin/babel.js src --out-dir lib"
+    "prepare": "node_modules/@babel/cli/bin/babel.js src --out-dir lib"
   },
   "keywords": [
     "hello-world"
   ],
-  "author": "Oorts <dev@oorts.info",
+  "author": "Oorts <dev@oorts.info>",
   "license": "ISC",
   "repository": {
     "type": "git",
