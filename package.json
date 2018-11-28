@@ -4,6 +4,7 @@
   "description": "Oorts format number",
   "main": "lib/index",
   "scripts": {
+    "report-coverage": "codecov",
     "webpack": "webpack --color -p --progress --display-optimization-bailout",
     "test": "mocha --reporter spec",
     "build": "cross-env NODE_ENV=production webpack --config webpack.config.js --color -p --progress --display-optimization-bailout",

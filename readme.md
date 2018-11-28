@@ -2,7 +2,8 @@ Number Formatter
 =========
 
 A small library that adds commas to numbers
-![](https://travis-ci.org/nguyentuandat/format-number.svg?branch=master)
+![](https://travis-ci.org/nguyentuandat/format-number.svg?branch=master) [![codecov](https://codecov.io/gh/nguyentuandat/format-number/branch/master/graph/badge.svg)](https://codecov.io/gh/nguyentuandat/format-number)
+
 
 ## Installation
 
