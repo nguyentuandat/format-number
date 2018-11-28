@@ -1,9 +1,8 @@
-Oorts: Hello world
-=========
 Number Formatter
 =========
 
 A small library that adds commas to numbers
+![](https://travis-ci.org/nguyentuandat/format-number.svg?branch=master)
 
 ## Installation
 
