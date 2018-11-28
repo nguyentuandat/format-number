@@ -1,8 +1,9 @@
-Number Formatter
+Number Formatter ![npm](https://img.shields.io/npm/v/:package.svg)
 =========
 
 A small library that adds commas to numbers
-![](https://travis-ci.org/nguyentuandat/format-number.svg?branch=master) [![codecov](https://codecov.io/gh/nguyentuandat/format-number/branch/master/graph/badge.svg)](https://codecov.io/gh/nguyentuandat/format-number) 
+
+(https://www.npmjs.com/package/@oorts/format-number) ![](https://travis-ci.org/nguyentuandat/format-number.svg?branch=master) [![codecov](https://codecov.io/gh/nguyentuandat/format-number/branch/master/graph/badge.svg)](https://codecov.io/gh/nguyentuandat/format-number) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/nguyentuandat/format-number/total.svg)](https://github.com/nguyentuandat/format-number) 
 [![npm](https://img.shields.io/npm/dt/:package.svg)](https://www.npmjs.com/package/@oorts/format-number)
 
